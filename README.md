@@ -6,3 +6,9 @@ Screenshots
 
 ![alt text](https://github.com/jainpawan21/SaveTheBird/blob/master/screenshot1.png)
 
+
+![alt text](https://github.com/jainpawan21/SaveTheBird/blob/master/screenshot2.png)
+
+
+
+
